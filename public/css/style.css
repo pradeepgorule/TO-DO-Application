@@ -1,0 +1,44 @@
+.item-modal {
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+}
+
+.modal-content {
+    display      : flex;
+    border-radius: 10px;
+    background   : #fff;
+
+}
+
+.input-content>div {
+
+    margin: 5px;
+}
+
+.input-content {
+    display: flex;
+    margin : 20px;
+}
+
+.btn-group {
+    display        : flex;
+    justify-content: space-evenly;
+    margin         : 10px;
+}
+
+.srch-content {
+    margin         : 5px;
+    display        : flex;
+    justify-content: space-around;
+}
+#btn{
+    margin: 2px;
+}
+.MuiTableRow-head {
+    background: #1976d2 !important;
+}
+
+.MuiTableRow-head th {
+    color: #fff !important;
+}
